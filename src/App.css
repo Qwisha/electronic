@@ -1,0 +1,52 @@
+
+
+.hidden
+{
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.object{
+  width: 100%;
+  object-fit: cover !important;
+  box-sizing: border-box;
+}
+.height1
+{
+  height: 100% !important;
+}
+.carousel-control-prev-icon:hover{
+  background-color: black;
+  border-radius: 50%;
+  font-size: 5px!important;
+  width: 40px!important;
+  height: 40px!important;
+  color: #000;
+}
+.carousel-control-next-icon:hover{
+  background-color: black;
+  border-radius: 50%;
+  font-size: 5px!important;
+  width: 40px!important;
+  height: 40px!important;
+  color: #000;
+}
+.box_product
+{
+  background-color: #f7f8f9 ;
+  overflow: hidden;
+}
+.add_card
+{
+  background-color: cornflowerblue;
+  padding: 8px 5px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.white1
+{
+  color: #fff;
+}
+a .white1{
+  color: #fff!important;
+}
